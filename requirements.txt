@@ -4,3 +4,4 @@ numpy
 google-genai
 matplotlib
 seaborn
+gTTs
