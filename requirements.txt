@@ -5,3 +5,5 @@ google-genai
 matplotlib
 seaborn
 gTTs
+dotenv
+
